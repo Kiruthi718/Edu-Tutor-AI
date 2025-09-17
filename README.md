@@ -1,4 +1,4 @@
-- 📄 *PDF Report:* [project1.pdf](https://github.com/Kiruthi718/Edu-Tutor-AI/blob/main/Edu_Tutor_AI_Project_Documentation.pdf)
+- 📄 *PDF Report:* [project1.pdf](Edu_Tutor_AI_Project_Documentation.pdf)
 - 📓 *app.py.ipynb Notebook:* [Edu Tutor.ipynb](edututorai.ipynb)
 - 🤖 *Live Hugging Face:* [Edu Tutor-AI1 Space](https://huggingface.co/spaces/kiruthika/EduTutor-ai1)
 - 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/15IkTu4zyalbKp_OrAEXnVh9Mur4-5kF9/view?usp=drivesdk)
