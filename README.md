@@ -1,1 +1,4 @@
-# IBM-Project
+- 📄 *PDF Report:* [project1.pdf](project1.pdf)
+- 📓 *app.py.ipynb Notebook:* [Edu Tutor.ipynb](edututorai.ipynb)
+- 🤖 *Live Hugging Face:* [Edu Tutor-AI1 Space](https://huggingface.co/spaces/kiruthika/EduTutor-ai1)
+- 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/15IkTu4zyalbKp_OrAEXnVh9Mur4-5kF9/view?usp=drivesdk)
